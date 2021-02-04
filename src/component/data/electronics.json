@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"AirPods",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71QT9PrfxyL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71QT9PrfxyL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71djnhmfy-L._AC_SL1500_.jpg"}
+        ],
+        "price":"10000",
+        "disce":"Apple AirPods with Charging"
+    },
+    {
+        "id":2,
+        "name":" Electrical Connectors",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81y945YRt5L._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71M7VMf2nAL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81EvVqP2d%2BL._AC_SL1500_.jpg"}
+        ],
+        "price":"1000",
+        "disce":"Electrical Connectors"
+    },
+    {
+        "id":3,
+        "name":"Ethernet",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81Agujln0hL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/61DQtJPAJ1L._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81Qq42vy20L._AC_SL1500_.jpg"}
+        ],
+        "price":"10000",
+        "disce":"Ethernet"
+        
+    },
+    {
+        "id":4,
+        "name":"Mosquito Repellent Killer",
+        "image":[
+            {"src":"https://global2019-static-cdn.kikuu.com/upload-productImg-71890616861796831_320_234.jpg?"},
+            {"src":"https://global2019-static-cdn.kikuu.com/upload-productImg-71890637232519972_320_234.jpg?"},
+            {"src":"https://global2019-static-cdn.kikuu.com/upload-productImg-71890641378516960_320_234.jpg?"}
+        ],
+        "price":"20000",
+        "disce":"Mosquito Repellent Killer"
+    },
+
+    {
+        "id":5,
+        "name":" Headset",
+        "image":[
+            {"src":"https://global2019-static-cdn.kikuu.com/upload-productImg-1490285332305_320_234.jpeg?"},
+            {"src":"https://global2019-static-cdn.kikuu.com/upload-productImg-1490285333979_320_234.jpeg?"},
+            {"src":"https://global2019-static-cdn.kikuu.com/upload-productImg-1490285333615_320_234.jpeg?"}
+        ],
+        "price":"10000",
+        "disce":"headset"
+        
+    },
+    {
+        "id":6,
+        "name":"Duracell",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/717kdr0IBZL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/51nR1H2Bx2L._AC_SL1200_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/51IH6t0A8uL._AC_SL1000_.jpg"}
+        ],
+        "price":"1000",
+        "disce":"Apple Duracell"
+    },
+    {
+        "id":7,
+        "name":"D Cell 1.5 Volt",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81DqxkWx4FL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71gfnsDd3-L._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/812s8i%2B8eJL._AC_SL1500_.jpg"}
+        ],
+        "price":"1000",
+        "disce":" D Cell 1.5 Volt"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name":"Ring Solar Pathlight -- Outdoor",
+        "image":[
+            {"src":"https://cdn.rona.ca/images/36335151_L.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/61GQJrm%2BNBL._SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/610RkiX90AL._SL1000_.jpg"}
+        ],
+        "price":"10000",
+        "disce":"Ring Solar"
+    },
+    {
+        "id":2,
+        "name":"Security Camera",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/61UMqwUC4KL._AC_SL1500_.jpg"},
+            {"src":"https://mobileimages.lowes.com/product/converted/030878/030878406611.jpg?size=pdhi"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71000AKBvAL._AC_SL1500_.jpg"}
+        ],
+        "price":"10000",
+        "disce":"Security Camera Outdoor, Goowls 1080P"
+        
+    },
+    {
+        "id":3,
+        "name":"Smart Light Switch",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/41SQJcDDOCL._AC_SX522_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71nMzhO05jL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/719%2BinZZcUL._AC_SL1500_.jpg"}
+        ],
+        "price":"10000",
+        "disce":"Smart Light Switch"
+        
+    },
+    {
+        "id":4,
+        "name":"All-new Echo",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71JB6hM6Z6L._AC_SL1000_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/61JlDVS%2BoXL._AC_SL1000_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/61Ylc0QzfZL._AC_SL1000_.jpg"}
+        ],
+        "price":"20000",
+        "disce":"All-new Echo "
+    },
+    {
+        "id":5,
+        "name":" Smart LED Bulbs",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81gztkDdoSL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/710ClVnN0kL._AC_SL1500_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/81FlMgiCunL._AC_SL1500_.jpg"}
+        ],
+        "price":"1000",
+        "disce":"Smart LED Bulbs"
+    },
+    {
+        "id":6,
+        "name":"TV 4K (64GB, Latest Model)",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/51Y-Dulc3bL._AC_SL1024_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/51P2VHkuu4L._AC_SL1024_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/71NPoqH5kQL._AC_SL1500_.jpg"}
+        ],
+        "price":"1000",
+        "disce":"Apple TV 4K (64GB, Latest Model)"
+    },
+    {
+        "id":7,
+        "name":"EVERIE Collapsible",
+        "image":[
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/51UrGfWSeIL._AC_SL1000_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/514Lgu%2B78AL._AC_SL1000_.jpg"},
+            {"src":"https://images-na.ssl-images-amazon.com/images/I/61yovTSRbkL._AC_SL1000_.jpg"}
+        ],
+        "price":"1000",
+        "disce":" EVERIE Collapsible"
+    }
+]

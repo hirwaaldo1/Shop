@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "name":"Jackets & Coats",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe2%2Fbc%2Fe2bcee1fdcf71efe13a181ec261a3d7a019fe59e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F44%2F0b%2F440b8cb37265758b40f6406f1879c54fbc42583b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbf%2Fdf%2Fbfdf1a55b8a5fbae622a466a186d14f012a4d09d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"10000",
+        "disce":"Men/Jackets & Coats/Jackets  Pea coat"
+    },
+    {
+        "id":2,
+        "name":"Hats",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2Fc2%2F38c23b3a677761585a344623a13371a04f8e9333.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_accessories_hatsandgloves%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd0%2F31%2Fd031722022357028cf9bbde7a6cd52cc2df75ff2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_accessories_hatsandgloves%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2Fc2%2F38c23b3a677761585a344623a13371a04f8e9333.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_accessories_hatsandgloves%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"10000",
+        "disce":" Men/Accessories/Hats & Gloves/Rib-knit hat"
+        
+    },
+    {
+        "id":3,
+        "name":"Jeans",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F21%2F5c%2F215c2f3d93ae99ece374df33a373a836d384beda.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_slim%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F89%2Fba%2F89bad3b777786ded2e82ac252e548bea748a1088.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_slim%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2Ff7%2F0ff7d7ad6f78d9f86339ca5f447a725dbfa62a18.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_slim%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"}
+        ],
+        "price":"10000",
+        "disce":" Men/Jeans/Slim/Freefit®/Slim Jeans"
+        
+    },
+    {
+        "id":4,
+        "name":"Shoes",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2Fee%2Faeeedc5294b8b47701feabf2df0abae9cc1ed9b9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2F37%2F4a37a5146520efdd6a10df58a4cda423eca26b9b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7a%2Ffa%2F7afafe30e564715f4b89ec320bf5da070742e571.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"20000",
+        "disce":" Men/Shoes/Trainers/Chunky leather trainers"
+    },
+    {
+        "id":5,
+        "name":"Socks",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3e%2F53%2F3e5328b60cbd093e173648f10d37aafc938e93c9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_socks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe2%2F75%2Fe275e4f4de6ad1cc092ca41f95bc2430d2bfc48e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_socks%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb6%2F12%2Fb612e621dd827c9920f39f4b3bec431bcc225e32.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_socks%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"1000",
+        "disce":" Men/Socks/Jacquard-knit socks"
+    },
+    {
+        "id":6,
+        "name":" Sports shorts ",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff4%2Fd7%2Ff4d749ad1db1c248a91ee72f312892c9b049b837.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shorts_sport%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcb%2F6e%2Fcb6ea0163f7082f932c5d53f357ebd5c0d003ff9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shorts_sport%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2Ff7%2F47f7953e4d14178de6dcaf596be1e3eb2a504129.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_shorts_sport%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"1000",
+        "disce":"Sports shorts"
+    },
+    {
+        "id":7,
+        "name":"Sportswear",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3a%2F5d%2F3a5dd9e7ebe205d1a9faaac03cf0ab7b23e8b9ae.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_sport_bottoms%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fad%2F4e%2Fad4e6cf52a325a32a599a489212504fba6450099.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_sport_bottoms%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F42%2F1d%2F421d868b2f45c2d823c004daf7112820921ae73d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_sport_bottoms%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"1000",
+        "disce":" Sportswear/Bottoms/Running shorts"
+    },
+    {
+        "id":8,
+        "name":"Trousers",
+        "image":[
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F06%2Ff8%2F06f85e18b457b755e7892853a0d08ac3c0c2809a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe2%2F1f%2Fe21fb7a968d1883d7cb97bf6b99396a0705f6c12.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"},
+            {"src":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2Fa5%2Ff2a54fe8caa8519c00bec1f38510b6b94aee9f65.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"}
+        ],
+        "price":"1000",
+        "disce":"Trousers/Joggers/Sweatpants/Regular Fit"
+    
+}
+]
